@@ -1,7 +1,5 @@
 # 성모병원 데이터 HE&IHC 정합 데이터셋 구축
 
-git repositories: https://github.com/Leeyoungsup/BR_IHC4BC_image_conversion
-
 ## **Purpose**
 
 - 성모병원에서 구축한 PD-L1(22C3) 와 HnE 슬라이드 원본  77장의 Pair 이미지를 통하여 성모병원 데이터에 localize한 모델을 개발하는 것이 목적임.
