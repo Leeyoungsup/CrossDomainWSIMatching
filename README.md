@@ -128,7 +128,6 @@ git repositories: https://github.com/Leeyoungsup/BR_IHC4BC_image_conversion
 
 - 현재 IHC 염색의 색이 많이 연해서 마스크 추출(이진화)시 빠지는 영역이 조금 있음.
 - 감안하더라도 전체영역에 대해서 어느정도 시각화로는 맞아보이나 performance로는 수치가 너무 낮은것으로 보아 HnE ↔ IHC 간의 조직 차이가 존재함.
-- 위 이미지의 현재 성능
 
 ### **Best match found:**
 
