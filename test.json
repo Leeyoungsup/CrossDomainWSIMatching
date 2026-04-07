@@ -1,0 +1,51 @@
+
+<_PropertyMap {'aperio.AppMag': '40', 'aperio.CalibrationAverageBlue': '209.88177490234', 'aperio.CalibrationAverageGreen': '210.49264526367', 'aperio.CalibrationAverageRed': '209.87390136719', 'aperio.Date': '05/21/2025', 'aperio.Exposure Scale': '0.000001', 'aperio.Exposure Time': '8', 'aperio.Filtered': '3', 'aperio.Focus Offset': '0.000000', 'aperio.Gamma': '2.2', 'aperio.Left': '21.551605224609', 'aperio.MPP': '0.262583', 'aperio.Rack': '2', 'aperio.Scan Warning': 'NONE', 'aperio.ScanScope ID': 'SS12285', 'aperio.ScannerType': 'GT450', 'aperio.SessionMode': 'NR', 'aperio.Slide': '15', 'aperio.StripeWidth': '4096', 'aperio.Time': '18: 01: 43', 'aperio.Time Zone': 'GMT+0900', 'aperio.Top': '40.066314697266', 'openslide.associated.label.height': '581', 'openslide.associated.label.width': '600', 'openslide.associated.macro.height': '597', 'openslide.associated.macro.width': '1471', 'openslide.associated.thumbnail.height': '1600', 'openslide.associated.thumbnail.width': '1920', 'openslide.comment': 'Aperio Leica Biosystems GT450 v1.0.1 \n88743x73994 [
+        0,
+        0,
+        88743x73994
+    ] (256x256) JPEG/YCC Q=91|AppMag = 40|CalibrationAverageBlue = 209.88177490234|CalibrationAverageGreen = 210.49264526367|CalibrationAverageRed = 209.87390136719|Date = 05/21/2025|Exposure Scale = 0.000001|Exposure Time = 8|Filtered = 3|Focus Offset = 0.000000|Gamma = 2.2|Left = 21.551605224609|MPP = 0.262583|Rack = 2|ScanScope ID = SS12285|ScannerType = GT450|SessionMode = NR|Slide = 15|StripeWidth = 4096|Time = 18: 01: 43|Time Zone = GMT+0900|Top = 40.066314697266|Scan Warning = NONE', 'openslide.icc-size': '13113264', 'openslide.level-count': '4', 'openslide.level[
+        0
+    ].downsample': '1', 'openslide.level[
+        0
+    ].height': '73994', 'openslide.level[
+        0
+    ].tile-height': '256', 'openslide.level[
+        0
+    ].tile-width': '256', 'openslide.level[
+        0
+    ].width': '88743', 'openslide.level[
+        1
+    ].downsample': '4.0001216731505647', 'openslide.level[
+        1
+    ].height': '18498', 'openslide.level[
+        1
+    ].tile-height': '256', 'openslide.level[
+        1
+    ].tile-width': '256', 'openslide.level[
+        1
+    ].width': '22185', 'openslide.level[
+        2
+    ].downsample': '16.001712400345895', 'openslide.level[
+        2
+    ].height': '4624', 'openslide.level[
+        2
+    ].tile-height': '256', 'openslide.level[
+        2
+    ].tile-width': '256', 'openslide.level[
+        2
+    ].width': '5546', 'openslide.level[
+        3
+    ].downsample': '64.018394523584831', 'openslide.level[
+        3
+    ].height': '1156', 'openslide.level[
+        3
+    ].tile-height': '256', 'openslide.level[
+        3
+    ].tile-width': '256', 'openslide.level[
+        3
+    ].width': '1386', 'openslide.mpp-x': '0.26258300000000001', 'openslide.mpp-y': '0.26258300000000001', 'openslide.objective-power': '40', 'openslide.quickhash-1': 'df0b9f1f07c9a4b61d368365f2483a0f9b20b33f17f4d18fa7c42d9f80033830', 'openslide.vendor': 'aperio', 'tiff.ImageDescription': 'Aperio Leica Biosystems GT450 v1.0.1 \n88743x73994 [
+        0,
+        0,
+        88743x73994
+    ] (256x256) JPEG/YCC Q=91|AppMag = 40|CalibrationAverageBlue = 209.88177490234|CalibrationAverageGreen = 210.49264526367|CalibrationAverageRed = 209.87390136719|Date = 05/21/2025|Exposure Scale = 0.000001|Exposure Time = 8|Filtered = 3|Focus Offset = 0.000000|Gamma = 2.2|Left = 21.551605224609|MPP = 0.262583|Rack = 2|ScanScope ID = SS12285|ScannerType = GT450|SessionMode = NR|Slide = 15|StripeWidth = 4096|Time = 18: 01: 43|Time Zone = GMT+0900|Top = 40.066314697266|Scan Warning = NONE', 'tiff.ResolutionUnit': 'inch'
+}>
